@@ -1,0 +1,1 @@
+This is the codes of hash function in python.
